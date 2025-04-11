@@ -1,0 +1,10 @@
+Facial Recognition systems analyze images of a users face and run the image through a classification algorithm to verify that the person is who they claim they are. There is another way this can be done through a matching algorithm that identifies the person based on a database of potential matches (Zoragoza, 2024). Often these algorithms are Convolutional Neural Networks (CNNs) that pass a vectorized image through a series of matrix transformations, and then filters, to classify key features. The resultant features are then passed to a Feed Forward Network (FFN) that classifies the image (Martin, 22). Historically the industry relied on eigenvector maps of a face to encode features of the target face and compare it with a reference face or faces. The use of CNNs was a massive advancement on the “eigenface” system and increased accuracy and speed.
+Facial Recognition software is used throughout the computing world to verify identities and keep systems secure. As a part of a multifactor authentication regime the technology can provide a robust assurance against unauthorized access. There are limitations though and certain faces continue to elude recognition. It is therefore not always advisable to rely on facial recognition exclusively (Lutkevich, 2024).
+
+As the technology and the training data improve though, facial recognition should continue to improve. It would not be unrealistic to expect the next few years to prove the technology to be extremely reliable.
+
+References
+Lutkevich, B. (2024, FEB 22). Pros and cons of facial recognition. Retrieved from TechTarget: https://www.techtarget.com/whatis/feature/Pros-and-cons-of-facial-recognition
+Martin, D. (22, 11 19). Facial recognition technology and deep learning models: Empowering the modern-day industries. Retrieved from BioMetricUpdate.com: https://www.biometricupdate.com/202211/facial-recognition-technology-and-deep-learning-models-empowering-the-modern-day-industries
+Zoragoza, A. (2024, 7 20). Facial Recognition: how it works and its safety. Retrieved from Signicat: https://www.signicat.com/blog/face-recognition
+
